@@ -1,0 +1,18 @@
+{
+  "name": "animal_generator",
+  "version": "1.0.0",
+  "description": "a quick webpage that allows us to generate the description of a random, made-up animal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MY",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
