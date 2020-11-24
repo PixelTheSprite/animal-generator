@@ -4,7 +4,8 @@
   "description": "a quick webpage that allows us to generate the description of a random, made-up animal",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node app.js"
   },
   "author": "MY",
   "license": "MIT",
